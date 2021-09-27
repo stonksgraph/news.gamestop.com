@@ -1,6 +1,6 @@
 # GameStop News DD
 
-## Chronilogical order of news.gamestop.com posts with closing price:
+## Chronological order of news.gamestop.com posts with closing price:
 
 | Title                                                                                                                                                                                                                                                                                                                      | Release Date | Stock Price Close | Stock Price Open | Day Difference | High    | Low     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- | -------------- | ------- | ------- |
@@ -10,7 +10,7 @@
 | [GameStop Reports Third Quarter Results, A Positive Start to Fourth Quarter with November Comparable Store Sales Increasing 16.5% And Sustained Progress Toward Long-Term Strategic Objectives](https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-third-quarter-results-positive-start-fourth) | 12/8/2020    | $16.94            | $16.37           | -$0.57         | $17.21  | $15.93  |
 | [GameStop Announces Additional Board Refreshment to Accelerate Transformation](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-additional-board-refreshment-accelerate)                                                                                                                    | 1/11/2021    | $19.94            | $19.41           | -$0.53         | $20.65  | $19.01  |
 | [GameStop Reports 2020 Holiday Sales Results](https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-2020-holiday-sales-results)                                                                                                                                                                    | 1/11/2021    | $19.94            | $19.41           | -$0.53         | $20.65  | $19.01  |
-| [GameStop Earns Top Marks in Human Rights Campaign’s 2021 Corporate Equality Index](https://news.gamestop.com/news-releases/news-release-details/gamestop-earns-top-marks-human-rights-campaigns-2021-corporate)                                                                                                           | 1/28/2021    | $58.82            | $265.00          | $206.18        | $483.00 | $112.25 |
+| [GameStop Earns Top Marks in Human Rights Campaign’s 2021 Corporate Equality Index](https://news.gamestop.com/news-releases/news-release-details/gamestop-earns-top-marks-human-rights-campaigns-2021-corporate)                                                                                                           | 1/28/2021    | $193.60           | $265.00          | $206.18        | $483.00 | $112.25 |
 | [GameStop Appoints Chief Technology Officer](https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-chief-technology-officer)                                                                                                                                                                      | 2/3/2021     | $92.41            | $112.01          | $19.60         | $113.40 | $85.25  |
 | [GameStop Announces Resignation of CFO and Succession Plan to Support Transformation](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-resignation-cfo-and-succession-plan-support)                                                                                                         | 2/23/2021    | $44.97            | $44.97           | $0.00          | $46.23  | $40.00  |
 | [GameStop Provides Corporate Governance Update](https://news.gamestop.com/news-releases/news-release-details/gamestop-provides-corporate-governance-update)                                                                                                                                                                | 3/8/2021     | $194.50           | $154.89          | -$39.61        | $210.87 | $146.10 |
@@ -42,48 +42,57 @@
 
 ![](./images/gme_news_only-chart.png)
 
-## RC Ventures Events:
+## DFV and RC Ventures
 
-| Title                                                                                                                              | Release Date | Stock Price Close | Stock Price Open |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- |
-| [13D Filing - 5,800,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000670/rc13d-082820.htm)         | 8/18/2020    | $4.81             | $4.61            |
-| [13D Filing - 6,215,326 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000673/rc13da1-083120.htm)       | 8/28/2020    | $5.39             | $5.30            |
-| [13D Filing - 6,500,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000699/rc13da2-091820.htm)       | 9/21/2020    | $8.75             | $9.35            |
-| [Letter to the board](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000821/rc13da3-111620.pdf)                       | 11/16/2020   | $12.06            | $11.16           |
-| [Form 4 - 9,001,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000119380520001580/xslF345X03/e620155_4-gme.xml) | 12/18/2020   | $15.63            | $15.78           |
+We'll combine these two prominant figures and pick the last impactful posts from DFV.
 
-## DFV Events:
+### RC Ventures Events:
 
-| Title                                                                                                                                     | Release Date | Stock Price Close | Stock Price Open |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- |
-| [Double Down](https://www.reddit.com/r/wallstreetbets/comments/m0q5bm/gme_yolo_update_mar_8_2021/)                                        | 3/8/2021     | $194.50           | $154.89          |
-| [Exercise Calls + buy 50k more shares](https://www.reddit.com/r/wallstreetbets/comments/msblc3/gme_yolo_update_apr_16_2021_final_update/) | 4/16/2021    | $154.69           | $156.00          |
+| Title                                                                                                                              | Release Date | Stock Price Close | Stock Price Open | Day Difference | High   | Low    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- | -------------- | ------ | ------ |
+| [13D Filing - 5,800,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000670/rc13d-082820.htm)         | 8/18/2020    | $4.81             | $4.61            | -$0.20         | $4.87  | $4.43  |
+| [13D Filing - 6,215,326 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000673/rc13da1-083120.htm)       | 8/28/2020    | $5.39             | $5.30            | -$0.09         | $5.57  | $5.22  |
+| [13D Filing - 6,500,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000699/rc13da2-091820.htm)       | 9/21/2020    | $8.75             | $9.35            | $0.60          | $9.60  | $8.38  |
+| [Letter to the board](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000821/rc13da3-111620.pdf)                       | 11/16/2020   | $12.06            | $11.16           | -$0.90         | $12.66 | $10.72 |
+| [Form 4 - 9,001,000 shares owned](https://www.sec.gov/Archives/edgar/data/1326380/000119380520001580/xslF345X03/e620155_4-gme.xml) | 12/18/2020   | $15.63            | $15.78           | $0.15          | $16.30 | $15.18 |
+
+### DFV Events:
+
+| Title                                                                                                                                     | Release Date | Stock Price Close | Stock Price Open | Day Difference | High    | Low     |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- | -------------- | ------- | ------- |
+| [Double Down](https://www.reddit.com/r/wallstreetbets/comments/m0q5bm/gme_yolo_update_mar_8_2021/)                                        | 3/8/2021     | $194.50           | $154.89          | -$39.61        | $210.87 | $146.10 |
+| [Exercise Calls + buy 50k more shares](https://www.reddit.com/r/wallstreetbets/comments/msblc3/gme_yolo_update_apr_16_2021_final_update/) | 4/16/2021    | $154.69           | $156.00          | $1.31          | $160.20 | $151.25 |
+
+### Chart
+
+![](./images/DFV+RC-chart.png)
 
 ## Bad Events Analysis
 
-| Title                                                                                                                        | Release Date | Stock Price Close | Stock Price Open |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- |
-| [SEC Hearing](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407107)                                  | 2/18/2021    | $40.69            | $48.49           |
-| [SEC Hearing](https://www.youtube.com/watch?v=imRzHXRq80I)                                                                   | 3/17/2021    | $209.81           | $217.84          |
-| [SEC Hearing](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407748)                                  | 5/6/2021     | $161.08           | $160.86          |
-| Buy button turned off - High of $483                                                                                         | 1/28/2021    | $193.60           | $265.00          |
-| Evergrande first started on Google Trends                                                                                    | 9/14/2021    | $199.24           | $200.65          |
-| [SS created and great migration started](https://www.reddit.com/r/Superstonk/)                                               | 3/15/2021    | $220.14           | $277.52          |
-| [SS Mod Drama](https://www.reddit.com/r/Superstonk/comments/ojqrqh/mod_drama_got_me_like/)                                   | 7/13/2021    | $180.06           | $187.68          |
-| [Burry is back!](https://www.reddit.com/r/Superstonk/comments/nzzb3s/michael_burry_is_back_this_is_bullish_af/)              | 6/14/2021    | $229.44           | $236.50          |
-| [Game on Anon post](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)                     | 7/14/2021    | $167.72           | $180.49          |
-| [House of cards 1](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)                             | 4/21/2021    | $158.53           | $164.14          |
-| [House of cards 2](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/)                               | 5/26/2021    | $242.56           | $229.00          |
-| [House of cards 3](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)                               | 5/26/2021    | $242.56           | $229.00          |
-| [u/Criand first post](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/) | 4/20/2021    | $158.53           | $164.14          |
-| [u/Criand top post](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)   | 6/15/2021    | $222.50           | $226.50          |
+| Title                                                                                                                                              | Release Date | Stock Price Close | Stock Price Open | Day Difference | High    | Low     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- | -------------- | ------- | ------- |
+| Buy button turned off - High of $483                                                                                                               | 1/28/2021    | $193.60           | $265.00          | $206.18        | $483.00 | $112.25 |
+| [SEC Hearing](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407107)                                                        | 2/18/2021    | $40.69            | $48.49           |                | 48.87   |
+| [SS created and great migration started](https://www.reddit.com/r/Superstonk/)                                                                     | 3/15/2021    | $220.14           | $277.52          |
+| [SEC Hearing](https://www.youtube.com/watch?v=imRzHXRq80I)                                                                                         | 3/17/2021    | $209.81           | $217.84          |
+| [u/Criand first post](https://www.reddit.com/r/Superstonk/comments/mv740t/january_22_february_19_march_5_april_16_the_only/)                       | 4/20/2021    | $158.53           | $164.14          |
+| [House of cards 1](https://www.reddit.com/r/Superstonk/comments/mvk5dv/a_house_of_cards_part_1/)                                                   | 4/21/2021    | $158.53           | $164.14          |
+| [Elliot Wave Guy Theory Starts](https://www.reddit.com/r/Superstonk/comments/n0qnpv/predicting_gmes_price_action_with_elliot_waves_429/)           | 4/28/2021    |
+| [Exponential Floor Guy Announces Theory](https://www.reddit.com/r/Superstonk/comments/n1rgfl/played_around_with_logscale_ta_and_noticed/)          | 4/30/2021    |
+| [SEC Hearing](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=407748)                                                        | 5/6/2021     | $161.08           | $160.86          |
+| [u/Criand T+21 and T+35 Theories Introduced](https://www.reddit.com/r/Superstonk/comments/nf22qz/theory_on_the_ftd_loop_missing_link_a_t35_surge/) | 5/17/2021    |
+| [Exponential Floor Guy Starts Regular Updates](https://www.reddit.com/r/Superstonk/comments/nhx3js/still_following_the_exponential_floor_as_of/)   | 5/21/2021    |
+| [House of cards 2](https://www.reddit.com/r/Superstonk/comments/nlwaxv/house_of_cards_part_2/)                                                     | 5/26/2021    | $242.56           | $229.00          |
+| [House of cards 3](https://www.reddit.com/r/Superstonk/comments/nlwqyv/house_of_cards_part_3/)                                                     | 5/26/2021    | $242.56           | $229.00          |
+| [Burry is back!](https://www.reddit.com/r/Superstonk/comments/nzzb3s/michael_burry_is_back_this_is_bullish_af/)                                    | 6/14/2021    | $229.44           | $236.50          |
+| [u/Criand top post](https://www.reddit.com/r/Superstonk/comments/o0scoy/the_bigger_short_how_2008_is_repeating_at_a_much/)                         | 6/15/2021    | $222.50           | $226.50          |
+| [SS Mod Drama - rensole, redchessqueen and hey_madie](https://www.reddit.com/r/Superstonk/comments/ojqrqh/mod_drama_got_me_like/)                  | 7/13/2021    | $180.06           | $187.68          |
+| [Game on Anon post](https://www.reddit.com/r/Superstonk/comments/ok2e0b/a_castle_of_glass_game_on_anon/)                                           | 7/14/2021    | $167.72           | $180.49          |
+| [gherkinit T+69 cycle theory](https://www.reddit.com/r/GMEJungle/comments/pk1ptp/t69/)                                                             | 9/7/2021     |
+| Evergrande first started on Google Trends                                                                                                          | 9/14/2021    | $199.24           | $200.65          |
 
 ![Evergrande Popping Up](./images/evergrande-search.png)
 
-- Michael Burry Tweets
-- Evergrande
-- SS Mod Drama
-- Buy button off
-- SEC Hearing 1
-- SEC Hearing 2
-- SEC Hearing 3
+### Chart
+
+![](./images/other_events-chart.png)
