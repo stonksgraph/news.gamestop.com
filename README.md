@@ -67,7 +67,7 @@ We'll combine these two prominant figures and pick the last impactful posts from
 
 ![](./images/DFV+RC-chart.png)
 
-## Bad Events Analysis
+## Other Events Analysis
 
 | Title                                                                                                                                              | Release Date | Stock Price Close | Stock Price Open | Day Difference | High    | Low     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | ---------------- | -------------- | ------- | ------- |
