@@ -165,15 +165,17 @@ Here are the other events charted out:
 
 **RC Tweets** - There are definitely some really interesting data points here. You can see a downward trend in the start of July with RC's tweets, but overall the trend seems to look like an exponential curve that is plateuing. I mainly put this data set in because I thought people would want to see it, I did. RC tweets definitely have had some short term price movements
 
-**Other Events** -
+**Other Events** - This chart just screams "nothing" to me. The two days with the largest spreads was when the buy button was turned off and the SS migration during the second sneeze. Each other event didn't have a lasting impact on the price and the events all hover around $200.
+
+It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like they've been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
 
 # tl;dr: Reddit talking about GameStop's successful digital transformation is a SHF worst nightmare, they would rather us talk about literally ANYTHING else
 
-CALL TO ACTION - GameStop DD Authors should try to focus research on GameStop's thriving business. I don't have enough time and there are so many things that don't get covered from their digital story. 10K/Q analysis is always extremely light and I'm guilty of not getting enough time to post what I have sitting on my computer.
+CALL TO ACTION - GameStop DD Authors should try to focus research on GameStop's thriving business. I don't have enough time and there are so many things that don't get covered from their digital story. 10K/Q analysis is always extremely light and I'm guilty of not getting enough time to post what I have sitting on my computer. Imagine what u/Criand 's thorough research could do in finding new details about GameStop; I know I would be super excited to see that!
 
-I'm not trying to say any of the past DD is a waste of time, but I do think news about GameStop's successful turn around is the most impactful thing any GameStop investor can add. The information from news.gamestop.com definitely has a better correlation with the overall price and a good example data point in there is the nft.gamestop.com release which actually wasn't an offical announcment, it was found and spread through Reddit. If more of this was found and called out, it could have a much bigger impact than we though. Instead we get caught up in Evergrande, Kenny flying planes, the market collapse, mod drama, fidelity are shills, computershare are shills, brokers are shills, u/digi-transformation is a shill, GameStop can't success until everything has been exposed and people are in jail!
+I'm not trying to say any of the past DD is a waste of time, but I do think news about GameStop's successful turn around is the most impactful thing any GameStop investor can add. The information from news.gamestop.com definitely has a better correlation with the overall increase in price and a good example data point in there is the nft.gamestop.com release which actually wasn't an offical announcment, it was found and spread through Reddit. If more of this was found and called out, it could have a much bigger impact than we think. Instead we get caught up in Evergrande, Kenny flying planes, the market collapse, mod drama, fidelity are shills, computershare are shills, brokers are shills, u/digi-transformation is a shill, GameStop can't succeed until everything has been exposed and people are in jail! (_I laugh so hard when I see these comments_).
 
-I call it all a distraction because it's much simpler, it's just GameStop. We talk about GameStop doing awesome and hold their news up like a boombox. You can't escape my boombox
+I call it all a distraction because it's all much simpler, it's just GameStop. We talk about GameStop doing awesome and hold their fantastic news up like a boombox. The media isn't covering GameStop, so we have to. You can't escape my boombox
 
 ![](./images/gme-boombox.jpeg)
 
