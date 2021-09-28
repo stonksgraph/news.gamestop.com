@@ -6,12 +6,14 @@ This is probably going to be a controversial post when I don't intend it to be (
 
 My theory is that information coming from news.gamestop.com has been more impactful than anything else with regards to GameStop's stock price. In this theory, the overall impact on the price trends up with time as GameStop has only released good news. The other part to my theory is that other events we discuss in our sub are much impactful to the price long-term, but may have some small short term impacts.
 
-I will compare a couple groups of data:
+I will compare a couple groups of data, specifically the stock price on the day of the event:
 
 - news.gamestop.com articles
 - RC Ventures and DFV position events
 - RC Tweets
 - Negative/Other External Events - i.e. Mod Drama
+
+I have also added a trend event to see what that looked like. The Reverse Repo Program is a great data set we can plot against GameStop
 
 # Before we get into it, a "how-to" read the charts you'll see
 
@@ -167,6 +169,13 @@ Here are the other events charted out:
 
 ![](./images/other_events-chart.png)
 
+# Overnight Reverse Repurchase Agreements Data
+
+Shout out to u/pctracer for tracking this data. His first post on this topic (I think) was 5/17/2021 [here](https://www.reddit.com/r/Superstonk/comments/nm3bvb/450b_reverse_repo_0046b_repo_repo_always_has_been/). Since we have a continuous trend, we can pull the graphs and look at them next to each other:
+
+![](./images/rrp.png)
+![](./images/gme-rrp.png)
+
 # Looking at the data sets
 
 **news.gamestop.com** - We can definitely see a positive trend overtime with the price. You **SHOULD NOT** take this graph as some sort of "cycle"; it may kinda look like that but there is no way of knowing when new posts will come up on news.gamestop.com and how the market will react to it. I suggest you take a moment to read through some of the titles in the table above and see how the story has progressed.
@@ -177,7 +186,9 @@ Here are the other events charted out:
 
 **Other Events** - This chart just screams "nothing" to me. The two days with the largest spreads was when the buy button was turned off and the SS migration during the second sneeze. Each other event didn't have a lasting impact on the price and the events all hover around $200.
 
-It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real digital transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like they've been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
+**Overnight Reverse Repurchase Agreement Trend** - These charts definitely don't look like they have any relation and us starting to talk about it didn't have any impact either. If this argument convinced others to invest in GameStop, we should see the price have some overall trend up.
+
+It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real digital transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like GameStop has been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
 
 # tl;dr: Reddit talking about GameStop's successful digital transformation is a SHF worst nightmare, they would rather us talk about literally ANYTHING else. We should be talking about GameStop's website, our purchases from GameStop, reviews we write for GameStop purchases, nft.gamestop.com updates, like anything GameStop.
 
