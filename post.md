@@ -186,7 +186,7 @@ Shout out to u/pctracer for tracking this data. His first post on this topic (I 
 
 **Other Events** - This chart just screams "nothing" to me. The two days with the largest spreads was when the buy button was turned off and the SS migration during the second sneeze. Each other event didn't have a lasting impact on the price and the events all hover around $200.
 
-**Overnight Reverse Repurchase Agreement Trend** - These charts definitely don't look like they have any relation and us starting to talk about it didn't have any impact either. If this argument convinced others to invest in GameStop, we should see the price have some overall trend up.
+**Overnight Reverse Repurchase Agreement Trend** - These charts definitely don't look like they have any relation and us starting to talk about it didn't have any impact either. If this argument convinced others to invest in GameStop, we should see the price have some overall trend up. The mid-June spike does look to have a small jump in RRP which is interesting, but other spikes in RRP happen at the same time GME is trending downwards. I don't see consistency there.
 
 It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real digital transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like GameStop has been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
 
