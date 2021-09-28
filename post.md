@@ -1,4 +1,6 @@
-GameStop has always been the catalyst...
+![](./images/am-i-the-only-one-who-cares-about-gamestop.png)
+
+# GameStop has always been the catalyst...
 
 This is probably going to be a controversial post when I don't intend it to be (and it shouldn't be taken that way). My intentions are not to call anyone out or any specific event out. I write DD about GME and in my opinion, we have too many DD writers writing about things other than GME. I thought it would be a great exercise to look at the daily GME price information in relation to events that have happened in the GME timeline.
 
@@ -9,9 +11,17 @@ I will compare a couple groups of data:
 - news.gamestop.com articles
 - RC Ventures and DFV position events
 - RC Tweets
-- Other Events - i.e. Mod Drama
+- Negative/Other External Events - i.e. Mod Drama
 
-# new.gamestop.com Releases
+# Before we get into it, a "how-to" read the charts you'll see
+
+You'll see various columns of data in the following tables: Stock Price at Close, Stock Price at Open, Day Difference, High and Low. The values are used to make a standard candle chart but Google Sheets draws solid candles as bullish candles and empty fill candles as bearish. I've outlined a brief explanation of the candles used in the charts below:
+
+![](./images/chart-explanation.png)
+
+Now on to the data!
+
+# news.gamestop.com Releases
 
 I started back with 11/20/2021 for gathering articles from news.gamestop.com. Then I went into Yahoo Finance and grabbed the data for those specific dates (close, open, high, low). I dropped the data in Google Sheets and added a chart with a trendline. Here is the table:
 
@@ -124,7 +134,7 @@ Here are the tweets charted out:
 
 ![](./images/RC_tweets-chart.png)
 
-# Other Events
+# Negative/Other Events
 
 I'm sure there could be a lot of data points added to this set, I just tried taking more known events and used them as examples. I defintely am not trying to say any of the DD posts in here are a waste of time or don't matter; that is not my intention. I personally believe these events just have less meaning than the news GameStop is releasing directly on their site.
 
@@ -167,13 +177,15 @@ Here are the other events charted out:
 
 **Other Events** - This chart just screams "nothing" to me. The two days with the largest spreads was when the buy button was turned off and the SS migration during the second sneeze. Each other event didn't have a lasting impact on the price and the events all hover around $200.
 
-It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like they've been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
+It really does look like a lot of the prominent events in the GameStop cycle have been distractions to the real digital transformation news GameStop has been putting out there. MSM always cries they haven't heard the story from GameStop, but I feel like they've been telling us a lot for awhile and we've been too busy looking at distractions rather than GameStop itself.
 
-# tl;dr: Reddit talking about GameStop's successful digital transformation is a SHF worst nightmare, they would rather us talk about literally ANYTHING else
+# tl;dr: Reddit talking about GameStop's successful digital transformation is a SHF worst nightmare, they would rather us talk about literally ANYTHING else. We should be talking about GameStop's website, our purchases from GameStop, reviews we write for GameStop purchases, nft.gamestop.com updates, like anything GameStop.
 
 CALL TO ACTION - GameStop DD Authors should try to focus research on GameStop's thriving business. I don't have enough time and there are so many things that don't get covered from their digital story. 10K/Q analysis is always extremely light and I'm guilty of not getting enough time to post what I have sitting on my computer. Imagine what u/Criand 's thorough research could do in finding new details about GameStop; I know I would be super excited to see that!
 
-I'm not trying to say any of the past DD is a waste of time, but I do think news about GameStop's successful turn around is the most impactful thing any GameStop investor can add. The information from news.gamestop.com definitely has a better correlation with the overall increase in price and a good example data point in there is the nft.gamestop.com release which actually wasn't an offical announcment, it was found and spread through Reddit. If more of this was found and called out, it could have a much bigger impact than we think. Instead we get caught up in Evergrande, Kenny flying planes, the market collapse, mod drama, fidelity are shills, computershare are shills, brokers are shills, u/digi-transformation is a shill, GameStop can't succeed until everything has been exposed and people are in jail! (_I laugh so hard when I see these comments_).
+I'm not trying to say any of the past DD is a waste of time, but I do think news about GameStop's successful turn around is the most impactful thing any GameStop investor can add. The information from news.gamestop.com definitely has a better correlation with the overall increase in price and a good example data point in there is the nft.gamestop.com release which actually wasn't an offical announcment, it was found and spread through Reddit. If more of this was found and called out, it could have a much bigger impact than we think. Instead we get caught up in Evergrande, Kenny flying planes, the market collapse, mod drama, Bill Gates is short GME, Bezos needs to be looked into, fidelity are shills, computershare are shills, brokers are shills, u/digi-transformation is a shill, GameStop can't succeed until everything has been exposed and people are in jail! (_I laugh so hard when I see these comments_).
+
+If you don't believe me, just look at the posts from today. You'll find a ton of DD and other posts on Computershare (I stopped counting after 20), but I couldn't find any posts that were _actually_ about GameStop. This is one reason I try to focus my time/research on the company itself.
 
 I call it all a distraction because it's all much simpler, it's just GameStop. We talk about GameStop doing awesome and hold their fantastic news up like a boombox. The media isn't covering GameStop, so we have to. You can't escape my boombox
 
